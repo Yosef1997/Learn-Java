@@ -78,6 +78,7 @@ public class Main {
             initialNameString.append(sArray[0]);
         }
         System.out.println("Initial Name: " + initialNameString.toString().toUpperCase());
+        System.out.println("Initial Name: " + initialNameString.toString().toUpperCase());
     }
 
     public static void main(String[] args) {
